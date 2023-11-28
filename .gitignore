@@ -1,0 +1,23 @@
+# Java class
+*.class
+
+# IntelliJ project files
+/.gradle/
+/.idea/
+*.iml
+*.ipr
+*.iws
+*.pyc
+build/
+jooq-generated/
+out/
+
+#OS & Tools Related Folder and file
+.DS_Store
+.DS_Store?
+*.swp
+*.swo
+.project
+.settings/
+.classpath
+bin/
